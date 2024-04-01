@@ -109,7 +109,7 @@ h2{
 #line{
     margin: 0 -16px 20px -16px;
     padding: 0;
-    width: 100%;
+    width: calc(100% + 32px);
     height: 0.5px;
     background-color: #E5EAF0;
 }
